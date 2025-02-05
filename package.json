@@ -1,0 +1,14 @@
+{
+	"name": "@muyianking/build",
+	"type": "module",
+	"author": "muyianking",
+	"version": "0.0.2",
+	"module": "./index.js",
+	"main": "./index.js",
+	"dependencies": {
+		"fs-extra": "^11.2.0"
+	},
+	"resolutions": {
+		"bin-wrapper": "npm:bin-wrapper-china"
+	}
+}
